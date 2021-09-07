@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "name": "static",
+  "version": "1.0.0",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node script",
+    "debug":"nodemon script"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redeemer-projects/z-hub-temp-page.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redeemer-projects/z-hub-temp-page/issues"
+  },
+  "homepage": "https://github.com/redeemer-projects/z-hub-temp-page#readme",
+  "description": ""
+}
